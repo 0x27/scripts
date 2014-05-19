@@ -7,8 +7,7 @@ add-apt-repository ppa:gviz-adm/graphviz-dev
 apt-get update
 
 read -p  "install apt-get crap [Enter]"
-apt-get install -y autoconf build-essential git-core scons libboost-dev libboost-python-dev libboost-thread-dev libboost-system-dev libtool mongodb python-chardet python-cssutils python-dev python-html5lib python-httplib2 python-zope.interface python-pymongo python-pefile python-setuptools zlib1g-dev libncurses5-dev python-lxml bison flex software-properties-common aptitude python-pip git build-essential g++ subversion nano
-
+apt-get install -y autoconf build-essential git-core scons libboost-dev libboost-python-dev libboost-thread-dev libboost-system-dev libtool mongodb python-chardet python-cssutils python-dev python-html5lib python-httplib2 python-zope.interface python-pymongo python-pefile python-setuptools zlib1g-dev libncurses5-dev python-lxml bison flex software-properties-common aptitude python-pip git build-essential g++ subversion nano php5 libapache2-mod-php5 php5-mcrypt
 sudo easy_install beautifulsoup4
 
 read -p  "cd opt [Enter]"
