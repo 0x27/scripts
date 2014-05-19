@@ -91,3 +91,5 @@ easy_install rarfile
 easy_install simplejson
 easy_install lxml
 easy_install pydot
+easy_install requests
+
